@@ -12,12 +12,19 @@ To identify patterns in applicant demographics such as age, income, employment t
 To visualize overall loan performance metrics to improve policy-making and risk management.
 
 🗂️ Dataset Information
+
 Feature	Description
+
 Applicant Income	Annual income of the applicant
+
 Loan Amount	Amount requested by the applicant
+
 Credit Score	Credit history rating
+
 Loan Term	Duration of loan repayment in months
+
 Employment Status	Salaried / Self-employed / Others
+
 Loan Status	Approved or Rejected (Target Variable)
 
 Source: Publicly available dataset (Kaggle / UCI Repository) or Dummy Financial Institution Data
