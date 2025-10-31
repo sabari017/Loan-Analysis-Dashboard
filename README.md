@@ -55,9 +55,11 @@ Predictive patterns to identify customer segments with highest approval probabil
 
 🔍 Insights & Findings
 
-Applicants with credit scores above 700 have significantly higher approval rates.
+Middle Aged Applicants have significantly higher approval rates.
 
-Middle-income bracket (₹5L to ₹15L annually) showed the highest approval probability.
+Applicants with moderate and many dependents have higher approval rates.
+
+Lower-Income bracket showed the highest approval probability.
 
 Shorter loan terms are more likely to be approved than longer terms.
 
